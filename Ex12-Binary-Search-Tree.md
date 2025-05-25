@@ -22,8 +22,8 @@ child pointer.
 ```
 /*
 Program to insert the elements in the binary search tree
-Developed by: Ashwath M
-RegisterNumber: 212223230023
+Developed by: Aswinth T
+RegisterNumber: 212222230015
 
 struct node { 
 int key; 
