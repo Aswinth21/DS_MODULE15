@@ -17,8 +17,8 @@ To write a C function to perform post order traversal of a binary tree.
 ```
 /*
 Program to perform post order traversal of a binary tree.
-Developed by: Ashwath M
-RegisterNumber: 212223230023
+Developed by: Aswinth T
+RegisterNumber: 212222230015
 
 struct node 
 { 
